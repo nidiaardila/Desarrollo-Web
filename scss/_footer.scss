@@ -1,0 +1,10 @@
+footer {
+    margin-top: auto;
+    a {
+      color: white;
+  
+      &:hover {
+        color:$redes; 
+      }
+    }
+  }
